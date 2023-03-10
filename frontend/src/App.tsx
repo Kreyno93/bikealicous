@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './bike-logo.png';
 import './App.css';
+import AddBike from "./components/AddBike";
 
 function App() {
     return (
@@ -8,6 +9,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo"/> Bikealicious
             </header>
+            <AddBike/>
         </div>
     );
 }
