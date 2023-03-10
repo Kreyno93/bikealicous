@@ -1,6 +1,6 @@
 package de.neuefische.backend.bike;
 
-import de.neuefische.backend.uuidService.UuidService;
+import de.neuefische.backend.service.UuidService;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;
 

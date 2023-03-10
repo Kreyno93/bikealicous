@@ -1,4 +1,4 @@
-package de.neuefische.backend.uuidService;
+package de.neuefische.backend.service;
 
 import org.springframework.stereotype.Service;
 

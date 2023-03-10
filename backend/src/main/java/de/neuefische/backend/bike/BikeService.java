@@ -1,6 +1,6 @@
 package de.neuefische.backend.bike;
 
-import de.neuefische.backend.uuidService.UuidService;
+import de.neuefische.backend.service.UuidService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
